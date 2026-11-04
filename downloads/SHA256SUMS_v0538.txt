@@ -1,0 +1,2 @@
+76f95cbd944d831159d2facaef1734ddbab4dec35a56c16798c50937987e70c8  RPG_v0538.mcaddon
+ab80253aac2ef47480343fec3dde918c024db71c179d7ba9991b50b39fcbb8b4  RPG_v0538_source_and_notes.zip
