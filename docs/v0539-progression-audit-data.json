@@ -1,0 +1,109 @@
+{
+  "basis": "v0.5.39 source + mocked entity death events; no client gameplay timing",
+  "levels": [
+    {
+      "level": 10,
+      "xp": 1848,
+      "normalKillsAt20Xp": 93
+    },
+    {
+      "level": 20,
+      "xp": 9158,
+      "normalKillsAt20Xp": 458
+    },
+    {
+      "level": 25,
+      "xp": 16088,
+      "normalKillsAt20Xp": 805
+    },
+    {
+      "level": 40,
+      "xp": 55978,
+      "normalKillsAt20Xp": 2799
+    },
+    {
+      "level": 100,
+      "xp": 742038,
+      "normalKillsAt20Xp": 37102
+    }
+  ],
+  "killExamples": {
+    "minecraft:zombie": {
+      "earnedXp": 20,
+      "wallet": {
+        "gold": 114,
+        "stone": 2,
+        "dust": 0
+      },
+      "trialKills": 1
+    },
+    "minecraft:chicken": {
+      "earnedXp": 20,
+      "wallet": {
+        "gold": 0,
+        "stone": 0,
+        "dust": 0
+      },
+      "trialKills": 0
+    },
+    "rpg:green_goblin": {
+      "earnedXp": 20,
+      "wallet": {
+        "gold": 114,
+        "stone": 2,
+        "dust": 0
+      },
+      "trialKills": 1
+    },
+    "rpg:elite_green_goblin": {
+      "earnedXp": 20,
+      "wallet": {
+        "gold": 360,
+        "stone": 6,
+        "dust": 1
+      },
+      "trialKills": 1
+    },
+    "rpg:rock_golem_boss": {
+      "earnedXp": 450,
+      "wallet": {
+        "gold": 3600,
+        "stone": 24,
+        "dust": 6
+      },
+      "trialKills": 1
+    }
+  },
+  "firstTenWithManualQuestKills": 88,
+  "firstClassMaterials": {
+    "swordsman": {
+      "diamondSwords": 5,
+      "diamondsToCraft": 10
+    },
+    "mage": {
+      "enchantedBooks": 10
+    },
+    "fighter": {
+      "bags": 2,
+      "hayBlocks": 18,
+      "wheatToCraft": 162
+    },
+    "fistBoneAdditional": {
+      "bags": 10,
+      "hayBlocks": 90,
+      "wheatToCraft": 810
+    }
+  },
+  "michaelSoloPrayer": {
+    "light": 192,
+    "angelLightPerDay": 2,
+    "prayers": 96,
+    "naturalWorldHoursWithoutSleep": 32
+  },
+  "dungeons": {
+    "tier1GoldIncludingAllKillPayouts": 13100,
+    "tier10GoldIncludingAllKillPayouts": 14900,
+    "tier10GoldIncreasePercent": 13.740458015267176,
+    "tier10HpMultiplier": 5.2
+  }
+}
