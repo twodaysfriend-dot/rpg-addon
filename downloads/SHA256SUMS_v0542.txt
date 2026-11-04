@@ -1,0 +1,2 @@
+0da57fb0233ba295275bcf59e583f65f8a7e63653855af8442e5f8e4b016c3dd  RPG_v0542.mcaddon
+c45cc93ab0cef310b86ad152b0d4372ce7d003d1b1c11fd252be5b12320cfbd2  RPG_v0542_source_and_notes.zip
