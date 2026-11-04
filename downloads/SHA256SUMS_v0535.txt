@@ -1,0 +1,2 @@
+1669efff6816396db7bb56df0d367a0aaaaaa83616337c11b22785079dc4fbcd  RPG_v0535.mcaddon
+074652488229c1bca53dfa5f0757eeb3673f5eb9c1aea86b05efa0bbab660e2f  RPG_v0535_source_and_notes.zip
