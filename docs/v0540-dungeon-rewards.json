@@ -1,0 +1,102 @@
+[
+  {
+    "tier": 1,
+    "gold": 2000,
+    "stone": 8,
+    "dust": 2,
+    "catalysts": 4,
+    "bonusEvery": 3,
+    "runes": 1,
+    "supplyMultiplier": 1
+  },
+  {
+    "tier": 2,
+    "gold": 3200,
+    "stone": 13,
+    "dust": 4,
+    "catalysts": 5,
+    "bonusEvery": 3,
+    "runes": 1,
+    "supplyMultiplier": 1
+  },
+  {
+    "tier": 3,
+    "gold": 4800,
+    "stone": 20,
+    "dust": 5,
+    "catalysts": 6,
+    "bonusEvery": 3,
+    "runes": 1,
+    "supplyMultiplier": 1
+  },
+  {
+    "tier": 4,
+    "gold": 6800,
+    "stone": 28,
+    "dust": 7,
+    "catalysts": 7,
+    "bonusEvery": 3,
+    "runes": 1,
+    "supplyMultiplier": 2
+  },
+  {
+    "tier": 5,
+    "gold": 9200,
+    "stone": 37,
+    "dust": 10,
+    "catalysts": 8,
+    "bonusEvery": 3,
+    "runes": 2,
+    "supplyMultiplier": 2
+  },
+  {
+    "tier": 6,
+    "gold": 12000,
+    "stone": 48,
+    "dust": 12,
+    "catalysts": 10,
+    "bonusEvery": 3,
+    "runes": 2,
+    "supplyMultiplier": 2
+  },
+  {
+    "tier": 7,
+    "gold": 15600,
+    "stone": 63,
+    "dust": 16,
+    "catalysts": 12,
+    "bonusEvery": 3,
+    "runes": 2,
+    "supplyMultiplier": 3
+  },
+  {
+    "tier": 8,
+    "gold": 20000,
+    "stone": 80,
+    "dust": 20,
+    "catalysts": 14,
+    "bonusEvery": 3,
+    "runes": 2,
+    "supplyMultiplier": 3
+  },
+  {
+    "tier": 9,
+    "gold": 25000,
+    "stone": 100,
+    "dust": 25,
+    "catalysts": 16,
+    "bonusEvery": 3,
+    "runes": 3,
+    "supplyMultiplier": 3
+  },
+  {
+    "tier": 10,
+    "gold": 31000,
+    "stone": 124,
+    "dust": 31,
+    "catalysts": 20,
+    "bonusEvery": 3,
+    "runes": 3,
+    "supplyMultiplier": 4
+  }
+]
