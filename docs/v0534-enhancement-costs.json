@@ -1,0 +1,122 @@
+{
+  "costs": [
+    {
+      "catalystsPerEligibleAttempt": 0,
+      "armor": {
+        "attempts": 246.5401965078885,
+        "gold": 381073.1653758751,
+        "stone": 2845.807230194254,
+        "dust": 0,
+        "catalysts": 0,
+        "destroyed": 11.839961818181946
+      },
+      "rune": {
+        "attempts": 34.723136123136136,
+        "gold": 23803.388167388177,
+        "stone": 0,
+        "dust": 219.0739778739779,
+        "catalysts": 0,
+        "destroyed": 2.2568831168831176
+      },
+      "equippedSet": {
+        "attempts": 1090.3301944009625,
+        "gold": 1595702.826005665,
+        "stone": 11383.228920777015,
+        "dust": 657.2219336219337,
+        "catalysts": 0,
+        "destroyed": 54.130496623377134
+      },
+      "allFiveRunes": {
+        "attempts": 1159.7764666472347,
+        "gold": 1643309.6023404412,
+        "stone": 11383.228920777015,
+        "dust": 1095.3698893698895,
+        "catalysts": 0,
+        "destroyed": 58.644262857143374
+      }
+    },
+    {
+      "catalystsPerEligibleAttempt": 5,
+      "armor": {
+        "attempts": 24.844470567126553,
+        "gold": 48099.21513764145,
+        "stone": 321.0904196003993,
+        "dust": 0,
+        "catalysts": 82.05647373902693,
+        "destroyed": 0.12374935733769774
+      },
+      "rune": {
+        "attempts": 10.537181069958852,
+        "gold": 7847.430864197535,
+        "stone": 0,
+        "dust": 68.9284362139918,
+        "catalysts": 36.73611111111113,
+        "destroyed": 0.0666666666666667
+      },
+      "equippedSet": {
+        "attempts": 130.98942547838277,
+        "gold": 215939.1531431584,
+        "stone": 1284.3616784015971,
+        "dust": 206.7853086419754,
+        "catalysts": 438.4342282894411,
+        "destroyed": 0.694997429350791
+      },
+      "allFiveRunes": {
+        "attempts": 152.06378761830047,
+        "gold": 231634.01487155346,
+        "stone": 1284.3616784015971,
+        "dust": 344.642181069959,
+        "catalysts": 511.90645051166337,
+        "destroyed": 0.8283307626841244
+      }
+    }
+  ],
+  "targets": [
+    {
+      "catalystsPerEligibleAttempt": 0,
+      "allFiveRunes": {
+        "attempts": 1159.7764666472347,
+        "gold": 1643309.6023404412,
+        "stone": 11383.228920777015,
+        "dust": 1095.3698893698895,
+        "catalysts": 0,
+        "destroyed": 58.644262857143374
+      },
+      "normalKills": 14414.996511758256,
+      "normalHoursWithoutCatalystSourcing": 20.020828488553132,
+      "guaranteedCatalystsPerClear": 4.333333333333333,
+      "killPlusClearReward": {
+        "gold": 13100,
+        "stone": 162,
+        "dust": 20.50000000000001,
+        "catalysts": 4,
+        "bonusEvery": 3
+      },
+      "dungeonClears": 125.44348109469017,
+      "dungeonHours": 20.90724684911503
+    },
+    {
+      "catalystsPerEligibleAttempt": 5,
+      "allFiveRunes": {
+        "attempts": 152.06378761830047,
+        "gold": 231634.01487155346,
+        "stone": 1284.3616784015971,
+        "dust": 344.642181069959,
+        "catalysts": 511.90645051166337,
+        "destroyed": 0.8283307626841244
+      },
+      "normalKills": 2297.6145404663935,
+      "normalHoursWithoutCatalystSourcing": 3.191131306203324,
+      "guaranteedCatalystsPerClear": 4.333333333333333,
+      "killPlusClearReward": {
+        "gold": 13100,
+        "stone": 162,
+        "dust": 20.50000000000001,
+        "catalysts": 4,
+        "bonusEvery": 3
+      },
+      "dungeonClears": 118.13225781038386,
+      "dungeonHours": 19.688709635063976
+    }
+  ]
+}
