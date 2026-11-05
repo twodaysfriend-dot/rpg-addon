@@ -1,21 +1,17 @@
-# RPG 애드온 v0.5.61 — 전직관 소환알·구조물 보호·실패 정리
+# RPG 애드온 v0.5.62 — 공용 무기 손 표시
 
-[설치용 애드온 다운로드](downloads/RPG_v0561.mcaddon?raw=true) · [소스와 안내](downloads/RPG_v0561_source_and_notes.zip?raw=true)
+[설치용 애드온 다운로드](downloads/RPG_v0562.mcaddon?raw=true) · [소스와 안내](downloads/RPG_v0562_source_and_notes.zip?raw=true)
 
-v0.5.60의 장비 강화·등급 합성·원본 무기 도트를 유지하며 다음을 수정했습니다.
+공용 무기 7종을 엔진 기본 검·도끼 표시 설정으로 통일했습니다. 기존 1인칭 0.11 크기 보정은 제거하고 BP·RP의 hand_equipped 설정을 활성화했습니다. 원본 PNG·아이템 ID·피해·내구도·강화·등급·인챈트는 유지합니다.
 
-- 관리자 `/rpg:hito`: 전직관 소환알 선택 메뉴. `/rpg:hito 검사`처럼 계열을 입력하면 해당 소환알 1개를 받습니다. 원하는 바닥에 사용해 NPC를 배치하세요.
-- 투신·로토 등을 포함한 전직관 소환알 18종. 크리에이티브 인벤토리와 `/rpg:egg` 전직관 그룹에서도 제공합니다.
-- 등록된 던전·신전의 채굴·폭발·블록 설치·양동이/도구 변형을 차단합니다. 관리자도 직접 채굴할 수 없습니다. 제단 사용과 NPC 배치는 유지합니다.
-- 던전 실패 시 내부 몹 전체 정리. 태그 없는 바닐라 몹도 포함하며 실패 정리에는 경험치·전리품·클리어 보상이 없습니다. 플레이어·전직관·GPT NPC는 보존합니다.
-- 나중에 청크가 로드되는 잔여 몹도 정리하며 다음 전투 시작 전 재검사합니다.
+대상: 적월선, 마공학 검, 마공학 대검, 정예기사의 대검, 빙설의 대검, 화염의 대검, 마수의 도끼.
 
-[상세 변경 및 보호 범위](docs/v0561-changes.md) · [SHA-256](downloads/SHA256SUMS_v0561.txt)
+[히든 직업 25개 목록 — 데이터 등록 순서, 전직 방법 제외](docs/v0562-hidden-jobs.md) · [변경 안내](docs/v0562-changes.md) · [SHA-256](downloads/SHA256SUMS_v0562.txt)
 
-동봉된 BP·명령어 BP·RP를 모두 0.5.61로 갱신·활성화하세요. UUID를 유지하므로 기존 등록된 던전·신전에도 적용됩니다. Bedrock 1.21.100 이상이 필요합니다.
+v0.5.61의 전직관 소환알 18종·던전/신전 보호·실패 몹 정리를 포함합니다. BP·명령어 BP·RP를 모두 0.5.62로 갱신·활성화하세요. 기존 UUID를 유지합니다.
 
-자동 테스트 417개(JavaScript 412 + Python 5) 통과. JSON 494개·JS 구문 154개·로컬 import 582개·소환알 18종·무기 PNG 7개 원본 동일성·팩 ZIP 무결성을 확인했습니다. 실제 모바일 Bedrock 플레이 실측은 수행하지 않았습니다.
+자동 테스트 417개 통과(JavaScript 412 + Python 5). JSON 494개·JS 구문 154개·로컬 import 582개·무기 도트 7개 원본 동일성·팩 무결성을 확인했습니다. 실제 모바일 Bedrock의 손 위치·각도·크기는 미검증입니다.
 
-[선택 BDS API 자료](downloads/RPG_v0561_API_server.zip?raw=true). 일반 설치는 맨 위 mcaddon 파일을 사용하면 됩니다.
+[선택 BDS API 자료](downloads/RPG_v0562_API_server.zip?raw=true). 일반 설치는 위 mcaddon 파일을 사용하세요.
 
-이전 배포: [v0.5.60](downloads/RPG_v0560.mcaddon?raw=true).
+이전 배포: [v0.5.61](downloads/RPG_v0561.mcaddon?raw=true).
