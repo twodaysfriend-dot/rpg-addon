@@ -1,0 +1,72 @@
+[
+  {
+    "source": "01_얼음_검.png",
+    "target": "frost_greatsword.png",
+    "sha256": "ebf09f5ddc87ccab9b882998a1de05d9b7550e29bf7e05b77d113c7e439d66f3",
+    "size": [
+      128,
+      128
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "source": "02_불꽃_검.png",
+    "target": "flame_greatsword.png",
+    "sha256": "717e3586527e1261c9aa11f0a2342632782d3e347aa7efec40f28cc91a49b174",
+    "size": [
+      128,
+      128
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "source": "03_황금_무기.png",
+    "target": "beast_axe.png",
+    "sha256": "a6f31fd8bdaee24bd626c3c1487f35beb102edf79caecd281f9c49355e0fff5b",
+    "size": [
+      128,
+      128
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "source": "04_붉은_달_일본도.png",
+    "target": "redmoon_blade.png",
+    "sha256": "4643e6f5917e12f229732977a98fc8d1e2ece910723a5dc5abb31e9b6aef07f2",
+    "size": [
+      128,
+      128
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "source": "05_푸른_칼날_검.png",
+    "target": "magitech_sword.png",
+    "sha256": "28ed8d2f4c74ef5eba8e70add1904b977bb5faa1d03060fa44ebaef21cadc0e2",
+    "size": [
+      128,
+      128
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "source": "06_청록_톱날_검.png",
+    "target": "magitech_greatsword.png",
+    "sha256": "7dcb7998d1ab76a4b27c8093a4a15557f3c55aff2460334b9a07415c023eb247",
+    "size": [
+      128,
+      128
+    ],
+    "mode": "RGBA"
+  },
+  {
+    "source": "07_보랏빛_고딕_검.png",
+    "target": "elite_knight_greatsword.png",
+    "sha256": "7061ea1304e66a4855f89b49c3f716961b76e21d0e0f2298c286877a0fda4f49",
+    "size": [
+      128,
+      128
+    ],
+    "mode": "RGBA"
+  }
+]
