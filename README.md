@@ -1,17 +1,18 @@
-# RPG v0.6.13 다운로드
+# RPG v0.6.14 다운로드
 
-[설치 파일 다운로드](downloads/RPG_v0613.mcaddon?raw=true) · [ZIP 다운로드](downloads/RPG_v0613_download.zip?raw=true)
+[설치 파일 다운로드](downloads/RPG_v0614.mcaddon?raw=true) · [ZIP 다운로드](downloads/RPG_v0614_download.zip?raw=true)
 
-Minecraft Bedrock용 애드온입니다. `.mcaddon` 파일을 열어 가져온 뒤 RPG BP·Commands BP·RP 세 팩을 모두 v0.6.13으로 활성화하세요. ZIP은 압축을 풀어 안의 `.mcaddon` 파일을 여세요.
+`.mcaddon` 파일을 가져온 뒤 RPG BP·Commands BP·RP 세 팩을 모두 v0.6.14로 활성화하세요. ZIP은 압축을 풀고 안의 `.mcaddon`을 여세요.
 
-- 10단계 던전 생성 수정: `/rpg:dungeoncreate 10` (대체: `/function rpg_dungeon10`)
-- 1000×1000 판타지 성곽 도시: `/rpg:citycreate` (기본 바닥 Y=200, 분할 생성)
-- 도시 진행 확인·중지·재개: `/rpg:citystatus` · `/rpg:citystop` · `/rpg:cityresume`
-- 구욱 이름·첨부 이미지 기반 외형, 크리에이티브 전용 카멜레온 전직 카드
-- v0.6.12의 종족·돌가면·힐 공격·공통 무기 대체 등 변경 유지
+- 현재 위치 중심 **250×250 성곽 스폰 마을**: `/rpg:citycreate`
+- 건축·재시도·재접속/재시작 후 이어짓기 자동 진행
+- 기존 1000 마을 안에서 새로 생성하면 바깥 생성 블록 자동 정리
+- 스폰 내 신속 VI·야간 투시·포화 지속 지급, 경계 밖에서 해제
+- 카멜레온 더 월드 6개·넨 10개 기술 학습: `/rpg:skillbook`
+- 10단계 던전 생성: `/rpg:dungeoncreate 10` (대체: `/function rpg_dungeon10`)
 
-[변경사항·설치·사용 안내](downloads/RPG_v0613_NOTES.md) · [전체 소스와 검증 스크립트](downloads/RPG_v0613_source.zip?raw=true)
+[사용법·변경사항·검증 범위](downloads/RPG_v0614_NOTES.md) · [전체 소스와 테스트](downloads/RPG_v0614_source.zip?raw=true)
 
-구조·문법·모의 API 테스트 통과. 실제 Minecraft 실행은 미검증입니다. 최소 Bedrock 1.21.100이 필요합니다.
+모의 API 테스트 통과. 실제 Minecraft 실행은 미검증입니다. 최소 Bedrock 1.21.100이 필요합니다.
 
-SHA-256: `3efe69c2eaf730974a4d7b0ad98d881d695cec005d5873089c314ed699ff8b1b`
+SHA-256: `2b44867773051297ab0da54b0ec00d454350047844bbdcf4a26b2d3c41ceec57`
