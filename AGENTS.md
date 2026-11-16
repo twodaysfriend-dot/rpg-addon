@@ -37,6 +37,8 @@ done
 python3 tools/package.py /workspace/rpg-release/<release-version>
 ```
 
+`checks/integration.mjs` also runs `checks/commerceCases.mjs`: preserve currency conservation and rollback, native-XP shop refunds, batch catalyst accounting, recursive rune crafting and equipped-rune protection when changing these systems.
+
 Update tests when intentionally changing behavior; keep meaningful coverage for walls, allies, range, repeated hit timing, native rejection fallback, buff consumption, existing-player migration and item state preservation. For damage questions, exercise the actual `skillDamageFor` with real equipment/rune data and state the assumed buffs, job and enemy defenses.
 
 Copy the verified new artifacts into `downloads/` without overwriting historical releases. Check nested `.mcpack` integrity and all version/dependency references. Commit only the intended repository changes and push normally. Provide the raw download URL (not a workspace-only link):
