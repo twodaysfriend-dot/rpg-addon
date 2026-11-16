@@ -22,6 +22,7 @@ From the extracted source root, run:
 set -e
 python3 checks/validate.py .
 node tools/build_monster_balance.mjs --check
+node checks/dungeonBalance.mjs .
 python3 tools/build_abyssal_armor.py --check
 node checks/largeArmor.mjs .
 node --experimental-vm-modules checks/integration.mjs . --gameplay-only-wings
