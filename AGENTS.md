@@ -21,11 +21,13 @@ From the extracted source root, run:
 ```sh
 set -e
 python3 checks/validate.py .
+node checks/cleanup.mjs .
 node tools/build_monster_balance.mjs --check
 node checks/dungeonBalance.mjs .
 python3 tools/build_abyssal_armor.py --check
 node checks/largeArmor.mjs .
 node --experimental-vm-modules checks/dragon.mjs .
+node --experimental-vm-modules checks/city.mjs .
 node --experimental-vm-modules checks/integration.mjs . --gameplay-only-wings
 for suite in integration worldUnlock behavior balance world rebalance frost holyOrb vitality dragonSnow statInput wings townMuda townVillagers beastHoly michael; do
   node --experimental-vm-modules "checks/$suite.mjs" .
