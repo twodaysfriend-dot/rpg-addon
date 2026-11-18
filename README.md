@@ -1,16 +1,14 @@
-# RPG v0.6.52 다운로드
+# RPG v0.6.53 다운로드
 
-[설치 파일 다운로드](downloads/RPG_v0652.mcaddon?raw=true) · [ZIP 다운로드](downloads/RPG_v0652_download.zip?raw=true) · [전체 소스·테스트](downloads/RPG_v0652_source.zip?raw=true)
+[설치 파일 다운로드](downloads/RPG_v0653.mcaddon?raw=true) · [ZIP 다운로드](downloads/RPG_v0653_download.zip?raw=true) · [전체 소스·테스트](downloads/RPG_v0653_source.zip?raw=true)
 
-Bedrock 1.21.100 이상. BP·Commands BP·RP 모두 v0.6.52로 활성화하고 월드를 다시 여세요.
+Bedrock 1.21.100 이상. BP·Commands BP·RP 모두 v0.6.53으로 활성화하고 월드를 다시 여세요.
 
-- **룬 6종 제작 재료 블록화:** 자수정 조각 → 자수정 블록, 청금석 → 청금석 블록, 레드스톤 → 레드스톤 블록, 철 주괴 → 철 블록으로 변경했습니다. 기존 개수만큼 블록을 넣습니다. 예: 힘의 룬은 자수정 블록 3 + 레드스톤 블록 2 + 철 블록 1입니다.
-- 작업대 제작법과 `/rpg:craft` 도감을 함께 갱신했습니다. 모든 룬의 결과는 기존처럼 1개입니다.
-- 현재 룬 제작법에는 다이아몬드·네더라이트 항목이 없습니다. 다른 장비의 다이아몬드 재료와 네더라이트 재료는 유지합니다.
-- 기존 갑옷 능력치·수선 2배·보스 목표 선택·룬 자동 완성·질주와 이전 기능은 유지합니다.
+- 관리자 명령 `/rpg:setgrade 신화 hand`로 주 손의 RPG 갑옷·공용 무기·직업 무기 등급을 지정합니다.
+- `/rpg:fuse`에서 +10 RPG 갑옷을 선택하면 보호 IV 인챈트 책 한 권을 소모해 다음 등급 +0으로 확정 승급합니다. 인챈트와 내구도는 보존합니다.
 
-[룬별 재료표·사용법·검증 범위](downloads/RPG_v0652_NOTES.md) · [이전 버전 안내](downloads/RPG_v0651_NOTES.md) · [개발/배포 지침](AGENTS.md)
+[변경 사항과 검증 범위](downloads/RPG_v0653_NOTES.md) · [이전 버전 안내](downloads/RPG_v0652_NOTES.md) · [개발/배포 지침](AGENTS.md)
 
-6종 룬의 실제 재료·수량·제작 도감 일치, 나머지 제작법 보존, 전체 기존 회귀 검사와 JSON/JS/import·세 팩 버전/의존성·압축 무결성 검사가 통과했습니다. 모의 API·데이터 검사이며 실제 Minecraft 엔진에서 제작 화면과 제작 동작은 별도 확인이 필요합니다.
+전체 회귀 검사 29개와 세 팩의 버전·의존성·압축 무결성 검사를 통과했습니다. 실제 Bedrock 인게임 검증은 별도입니다.
 
-SHA-256: `474cc2da6623693444e0764711aaa2d0b3bb9256f90fcb65ad40328ec76f0b7d`
+SHA-256: `d2e3b18d42229f4dae7e42396a8722cc630ef93218cbc520fe46a62d75a4269c`
