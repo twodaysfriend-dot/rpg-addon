@@ -1,11 +1,11 @@
-# RPG v0.6.64 다운로드
+# RPG v0.6.65 다운로드
 
-[설치 파일 다운로드](downloads/RPG_v0664.mcaddon?raw=true) · [ZIP 다운로드](downloads/RPG_v0664_download.zip?raw=true) · [전체 소스·테스트](downloads/RPG_v0664_source.zip?raw=true)
+[설치 파일 다운로드](downloads/RPG_v0665.mcaddon?raw=true) · [ZIP 다운로드](downloads/RPG_v0665_download.zip?raw=true) · [전체 소스·테스트](downloads/RPG_v0665_source.zip?raw=true)
 
-Bedrock 1.21.100 이상. BP·Commands BP·RP 모두 v0.6.64로 활성화하고 월드를 다시 여세요.
+Bedrock 1.21.100 이상. BP·Commands BP·RP 모두 v0.6.65로 활성화하고 월드를 다시 여세요.
 
-v0.6.58 기반 복원판입니다. 모든 등급 룬의 인벤토리 인출과 플레이어의 현재 위치를 기준으로 한 후속 타격·발사를 유지합니다.
+투신 공격 스킬 6종의 기본 피해가 2배로 올랐습니다. 천멸격은 다음 공격 스킬을 2배로 강화합니다.
 
-[조작과 검증 범위](downloads/RPG_v0664_NOTES.md) · [이전 버전 안내](downloads/RPG_v0663_NOTES.md) · [개발/배포 지침](AGENTS.md)
+[조작과 검증 범위](downloads/RPG_v0665_NOTES.md) · [이전 버전 안내](downloads/RPG_v0664_NOTES.md) · [개발/배포 지침](AGENTS.md)
 
-SHA-256: `3c08c5ae532a33dec87dd5a121969e3f2b0a20a28d8ce8104f1dc5f692261e5d`
+SHA-256: `bea7ec7ac186f8825549a61684602df8d4e19c396d28f8c0f18406c91e370602`
