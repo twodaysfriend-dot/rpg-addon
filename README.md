@@ -9,3 +9,11 @@ Bedrock 1.21.100 이상. BP·Commands BP·RP 모두 v0.6.79로 활성화하고 �
 [조작과 검증 범위](downloads/RPG_v0679_NOTES.md) · [이전 버전 안내](downloads/RPG_v0678_NOTES.md) · [개발/배포 지침](AGENTS.md)
 
 SHA-256: `ea756cf177805bf5973b04b3769af6e1e6f7418facf6a54ef7f6f2f15f9385be`
+
+## 창셀혼 전직 테스트판 v0.6.80
+
+[테스트 설치 파일](downloads/RPG_v0680_preview.mcaddon?raw=true) · [ZIP 다운로드](downloads/RPG_v0680_preview_download.zip?raw=true) · [전체 소스·테스트](downloads/RPG_v0680_preview_source.zip?raw=true) · [테스트판 안내](downloads/RPG_v0680_preview_NOTES.md)
+
+창셀혼 대화와 블라디미르 전직 카드를 테스트할 수 있습니다. 창셀혼은 임시로 기본 스티브 외형을 사용합니다.
+
+SHA-256: `1a877a1ba63995391c182c992239ba66476a9cc7f0f9a079bc560bc2ad25d457`
