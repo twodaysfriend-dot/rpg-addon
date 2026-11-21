@@ -1,11 +1,11 @@
-# RPG v0.6.82 다운로드
+# RPG v0.6.83 다운로드
 
-[설치 파일 다운로드](downloads/RPG_v0682.mcaddon?raw=true) · [ZIP 다운로드](downloads/RPG_v0682_download.zip?raw=true) · [전체 소스·테스트](downloads/RPG_v0682_source.zip?raw=true)
+[설치 파일 다운로드](downloads/RPG_v0683.mcaddon?raw=true) · [ZIP 다운로드](downloads/RPG_v0683_download.zip?raw=true) · [전체 소스·테스트](downloads/RPG_v0683_source.zip?raw=true)
 
-Bedrock 1.21.100 이상. BP·Commands BP·RP 모두 v0.6.82로 활성화하고 월드를 다시 여세요.
+Bedrock 1.21.100 이상. BP·Commands BP·RP 모두 v0.6.83으로 활성화하고 월드를 다시 여세요.
 
-관리자 명령 `/rpg:setgrade 신화 leggings`로 각반 등급을, `/rpg:setgrade 신화 runes 1`로 1번에 장착한 룬 등급을 바꿀 수 있습니다. 모든 등급의 룬을 강화 단계와 함께 일반 가방으로 옮길 수 있습니다.
+블라디미르 2차 전직 **진홍의 군주**를 추가했습니다. 레벨 45와 블라디미르로 5단계 이상 던전을 솔로 클리어한 기록을 갖추고 창셀혼에게 말을 거세요. 투신의 난식은 시선 기준 120°로 32발의 청백색 충격파를 쏩니다.
 
-[조작과 검증 범위](downloads/RPG_v0682_NOTES.md) · [v0.6.81 안내](downloads/RPG_v0681_NOTES.md) · [개발/배포 지침](AGENTS.md)
+[스킬 수치와 검증 범위](downloads/RPG_v0683_NOTES.md) · [v0.6.82 안내](downloads/RPG_v0682_NOTES.md) · [개발/배포 지침](AGENTS.md)
 
-SHA-256: `52064a97ae998fac2ce2283cea8ff173ce999c9e4e671a22be811f8dfce80d9e`
+SHA-256: `4b9cbc72189cc0d7cc48dc4546ead9dca427fe456a0a5a42d3f11d63da849ac5`
