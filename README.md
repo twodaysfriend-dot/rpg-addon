@@ -1,11 +1,11 @@
-# RPG v0.6.89 다운로드
+# RPG v0.6.90 다운로드
 
-[설치 파일 다운로드](downloads/RPG_v0689.mcaddon?raw=true) · [ZIP 다운로드](downloads/RPG_v0689_download.zip?raw=true) · [전체 소스·테스트](downloads/RPG_v0689_source.zip?raw=true)
+[설치 파일 다운로드](downloads/RPG_v0690.mcaddon?raw=true) · [ZIP 다운로드](downloads/RPG_v0690_download.zip?raw=true) · [전체 소스·테스트](downloads/RPG_v0690_source.zip?raw=true)
 
-Bedrock 1.21.100 이상. BP·Commands BP·RP를 모두 v0.6.89로 활성화하고 월드를 다시 여세요.
+Bedrock 1.21.100 이상. BP·Commands BP·RP를 모두 v0.6.90으로 활성화하고 월드를 다시 여세요.
 
-운영자 명령 `/rpg:cleaner`로 3분마다 자동 청소를 시작합니다. 진홍의 군주 전직은 블라디미르로 5단계 이상 던전을 솔로나 파티로 클리어하고 RPG 레벨 45에 도달한 뒤 창셀혼에게 진행할 수 있습니다.
+7·8단계에는 기존 스펙의 마공학 골렘이, 9·10단계에는 체력을 20% 높인 히드라가 등장합니다. 샌드웜과 엘리트 샌드웜은 필드와 던전 모두 체력 4배, 공격력 2배입니다.
 
-[사용법과 검증 범위](downloads/RPG_v0689_NOTES.md) · [v0.6.88 강제 전직과 투신 난식 안내](downloads/RPG_v0688_NOTES.md) · [개발/배포 지침](AGENTS.md)
+[보스 수치와 검증 범위](downloads/RPG_v0690_NOTES.md) · [v0.6.89 자동 청소기와 전직 안내](downloads/RPG_v0689_NOTES.md) · [개발/배포 지침](AGENTS.md)
 
-SHA-256 `414d126367595b5d11d16a2d6e192b345dc4dc65c2ad6f380aacb2a6249738c1`
+SHA-256 `87f0377ae00b10816454691ea3831055cdd02ea78793e73ff7803fbb771ef815`
