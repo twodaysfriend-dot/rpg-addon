@@ -1,11 +1,11 @@
-# RPG v0.6.92 다운로드
+# RPG v0.6.93 다운로드
 
-[설치 파일 다운로드](downloads/RPG_v0692.mcaddon?raw=true) · [ZIP 다운로드](downloads/RPG_v0692_download.zip?raw=true) · [전체 소스·테스트](downloads/RPG_v0692_source.zip?raw=true)
+[설치 파일 다운로드](downloads/RPG_v0693.mcaddon?raw=true) · [ZIP 다운로드](downloads/RPG_v0693_download.zip?raw=true) · [전체 소스·테스트](downloads/RPG_v0693_source.zip?raw=true)
 
-Bedrock 1.21.100 이상. BP·Commands BP·RP를 모두 v0.6.92로 활성화하고 월드를 다시 여세요.
+Bedrock 1.21.100 이상. BP·Commands BP·RP를 모두 v0.6.93으로 활성화하고 월드를 다시 여세요.
 
-투신 난식은 시전 위치 기준 사거리 25칸, 파편당 기본 물리 피해 16입니다. 가방의 파괴 면제권은 룬·갑옷·무기 강화에서 파괴가 나올 때 한 장씩 자동 소모됩니다.
+부동산 구매권으로 마을과 야생의 16×16 청크를 구매할 수 있습니다. 운영자 관리 도구에서 소유지를 조회하고, 크리에이티브 인벤토리의 땅뺏기 아이템으로 소유권을 회수할 수 있습니다.
 
-[변경 사항과 검증 범위](downloads/RPG_v0692_NOTES.md) · [v0.6.91 성직·청소기 변경 안내](downloads/RPG_v0691_NOTES.md) · [개발/배포 지침](AGENTS.md)
+[변경 사항과 검증 범위](downloads/RPG_v0693_NOTES.md) · [v0.6.92 난식·파괴 면제권 변경 안내](downloads/RPG_v0692_NOTES.md) · [개발/배포 지침](AGENTS.md)
 
-SHA-256 `69f465847b2d22f702082701f3ea5402eaf2cc1a4b908191f018b53ad009dd5a`
+SHA-256 `938e47fd243c6700be79c941931b0b35b19b26c115dc305526ca349862333dcd`
